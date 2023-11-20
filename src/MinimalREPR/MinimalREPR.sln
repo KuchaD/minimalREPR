@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalREPR", "MinimalREPR.csproj", "{3396C83D-8B94-43B3-89DA-F1FCEF8252F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App", "..\..\example\App\App.csproj", "{695EFD16-7B52-48FE-8B03-81CC8098F66F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3396C83D-8B94-43B3-89DA-F1FCEF8252F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3396C83D-8B94-43B3-89DA-F1FCEF8252F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3396C83D-8B94-43B3-89DA-F1FCEF8252F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3396C83D-8B94-43B3-89DA-F1FCEF8252F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{695EFD16-7B52-48FE-8B03-81CC8098F66F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{695EFD16-7B52-48FE-8B03-81CC8098F66F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{695EFD16-7B52-48FE-8B03-81CC8098F66F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{695EFD16-7B52-48FE-8B03-81CC8098F66F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
